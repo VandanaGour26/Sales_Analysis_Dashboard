@@ -1,10 +1,13 @@
 # Sales_Analysis_Dashboard
 
+
 ## Project Objective
 
 To build a Sales Analysis Dashboard that provides interactive insights into sales, profit, and quantity trends from 2014 to 2017 across different regions to support data-driven decision making.
 
+
 ## Dataset used
+
 
 
 ## insights provided
@@ -19,6 +22,7 @@ To build a Sales Analysis Dashboard that provides interactive insights into sale
 
 • Segment-based contribution to total sales <br>
 
+
 ## Tech stack
 
 • Power BI Desktop – Main data visualization platform used for report creation.<br>
@@ -30,6 +34,7 @@ To build a Sales Analysis Dashboard that provides interactive insights into sale
 • Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
 
 • File Format – .pbix for development and .png for dashboard previews.<br>
+
 
 ## Key Features
 
