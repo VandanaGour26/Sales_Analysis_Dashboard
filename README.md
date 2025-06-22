@@ -53,6 +53,6 @@ The data was cleaned, transformed, and modeled to support effective visualizatio
 
    • Discount Tracker: Monitor total discounts applied using a gauge chart.
 
-## snapshot dashboard
+## Dashboard
 
 ![snapshot_dashboard](https://github.com/user-attachments/assets/d6dd297d-ac2d-4ba1-9dbd-665665a7084a)
