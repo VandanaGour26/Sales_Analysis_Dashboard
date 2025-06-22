@@ -18,17 +18,17 @@ To build a Sales Analysis Dashboard that provides interactive insights into sale
 ## Tech stack
 
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
+• 📁 File Format – .pbix for development and .png for dashboard previews.<br>
 
 ## Key Features
 
-•✅ KPI Cards: Quick view of total sales, profit, and quantity
-•🌍 Regional & City-wise Insights: Analyze performance across East, West, North, and South
-•📅 Time Filter: Analyze monthly/yearly trends from 2014 onward
-•🚚 Sales by Ship Mode: Compare performance of Standard, First Class, Second Class, and Same Day
-•🏷️ Segment Analysis: Explore sales by Consumer, Corporate, and Home Office segments
-•📦 Sub-category Insights: Visualize sales and profit distribution across product types
-•🎯 Discount Tracker: Monitor total discounts applied using a gauge chart
+•✅ KPI Cards: Quick view of total sales, profit, and quantity.<br>
+•🌍 Regional & City-wise Insights: Analyze performance across East, West, North, and South.<br>
+•📅 Time Filter: Analyze monthly/yearly trends from 2014 onward.<br>
+•🚚 Sales by Ship Mode: Compare performance of Standard, First Class, Second Class, and Same Day.<br>
+•🏷️ Segment Analysis: Explore sales by Consumer, Corporate, and Home Office segments.<br>
+•📦 Sub-category Insights: Visualize sales and profit distribution across product types.<br>
+•🎯 Discount Tracker: Monitor total discounts applied using a gauge chart.
