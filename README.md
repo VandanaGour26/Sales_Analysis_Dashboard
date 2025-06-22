@@ -6,8 +6,9 @@
 To build a Sales Analysis Dashboard that provides interactive insights into sales, profit, and quantity trends from 2014 to 2017 across different regions to support data-driven decision making.
 
 
-## Dataset used
-
+## Data Overview
+The dashboard is built using structured sales data from 2014 to 2017, containing detailed records of orders, customer segments, product categories, regional sales, profit margins, shipping methods, and discounts.
+The data was cleaned, transformed, and modeled to support effective visualization and analysis in Power BI.
 
 
 ## insights provided
@@ -51,3 +52,7 @@ To build a Sales Analysis Dashboard that provides interactive insights into sale
    • Sub-category Insights: Visualize sales and profit distribution across product types.<br>
 
    • Discount Tracker: Monitor total discounts applied using a gauge chart.
+
+## snapshot dashboard
+
+![snapshot_dashboard](https://github.com/user-attachments/assets/d6dd297d-ac2d-4ba1-9dbd-665665a7084a)
