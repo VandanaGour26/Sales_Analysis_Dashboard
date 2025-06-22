@@ -10,6 +10,7 @@ To build a Sales Analysis Dashboard that provides interactive insights into sale
 ## insights provided
 
 • Top-performing states and cities based on sales and profit<br>
+
 • Relationship between discount levels and sales volume<br>
 • Best and worst-performing sub-categories <br>
 • Monthly and yearly trends in sales performance <br>
