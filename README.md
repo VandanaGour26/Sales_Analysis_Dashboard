@@ -27,9 +27,15 @@ To build a Sales Analysis Dashboard that provides interactive insights into sale
 ## Key Features
 
 • KPI Cards: Quick view of total sales, profit, and quantity.<br>
+
 • Regional & City-wise Insights: Analyze performance across East, West, North, and South.<br>
+
 • Time Filter: Analyze monthly/yearly trends from 2014 onward.<br>
+
 • Sales by Ship Mode: Compare performance of Standard, First Class, Second Class, and Same Day.<br>
+
 • Segment Analysis: Explore sales by Consumer, Corporate, and Home Office segments.<br>
+
 • Sub-category Insights: Visualize sales and profit distribution across product types.<br>
+
 • Discount Tracker: Monitor total discounts applied using a gauge chart.
