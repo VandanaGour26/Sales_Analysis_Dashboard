@@ -12,16 +12,23 @@ To build a Sales Analysis Dashboard that provides interactive insights into sale
 • Top-performing states and cities based on sales and profit<br>
 
 • Relationship between discount levels and sales volume<br>
+
 • Best and worst-performing sub-categories <br>
+
 • Monthly and yearly trends in sales performance <br>
+
 • Segment-based contribution to total sales <br>
 
 ## Tech stack
 
 • Power BI Desktop – Main data visualization platform used for report creation.<br>
+
 • Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+
 • DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+
 • Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
+
 • File Format – .pbix for development and .png for dashboard previews.<br>
 
 ## Key Features
